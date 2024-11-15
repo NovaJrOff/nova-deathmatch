@@ -19,3 +19,5 @@ shared_scripts {
 files {
     'config/*.lua'
 }
+
+dependency 'ox_lib'
